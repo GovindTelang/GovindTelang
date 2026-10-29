@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Computer Science graduate from **IIIT Bhopal (2026)**.
 - 💼 Previously a **Software Engineering Intern at Motive**, working on backend APIs, concurrent workflows, CI/CD, and AI-assisted engineering workflows.
@@ -33,7 +33,7 @@
 - 🌱 Currently deepening my knowledge of **Java, Spring Boot, distributed systems, system design, and RAG-based applications**.
 - 🧠 I enjoy problem solving and have solved **1,000+ DSA problems**, with a peak LeetCode rating of **1968**.
 
-## 🛠️ Languages, Frameworks & Tools
+## Languages, Frameworks & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,ts,react,nodejs,express,tailwind,mongodb,postgres,mysql,redis,kafka,docker,aws,git,github,linux,vscode,postman&perline=8" alt="Technologies: Java, Spring, C++, Python, JavaScript, TypeScript, React, Node.js, Express, Tailwind CSS, MongoDB, PostgreSQL, MySQL, Redis, Kafka, Docker, AWS, Git, GitHub, Linux, VS Code, Postman" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-### 🧩 More Projects & Repositories
+### More Projects & Repositories
 
 - **[WhisperWeb](https://github.com/GovindTelang/WhisperWeb)** — Go backend project.
 - **[Shell-JS](https://github.com/GovindTelang/Shell-JS)** — JavaScript-based shell project.
@@ -95,7 +95,7 @@ You can find more experiments and repositories on my **[GitHub profile](https://
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/govind-telang-967110255/" target="_blank">
@@ -108,7 +108,7 @@ You can find more experiments and repositories on my **[GitHub profile](https://
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GovindTelang&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Govind's GitHub stats" />
@@ -121,4 +121,9 @@ You can find more experiments and repositories on my **[GitHub profile](https://
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:2F80ED&height=100&section=footer" alt="Footer banner" />
+</p> -->
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GovindTelang&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
